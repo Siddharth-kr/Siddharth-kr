@@ -2,7 +2,7 @@
 
 <!-- Animated header with typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=👋+Hello,+I'm+Siddharth;🚀+Mern+Full+Stack+Developer;💡+Problem+Solver;🎨+UI%2FUX+Enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=👋%20Hello,%20I'm%20Siddharth;🚀%20MERN%20Full%20Stack%20Developer" alt="Typing animation" />
 </h1>
 
 <!-- Profile banner with stats -->

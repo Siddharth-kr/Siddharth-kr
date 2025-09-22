@@ -52,7 +52,7 @@ Full-stack application with React (Vite), Node.js, Express, MongoDB, and Razorpa
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🎨 [Portfolio Website](https://github.com/Siddharth-Kumar/portfolio)
+### 🎨 [Portfolio Website](https://siddharth-kr.github.io/portfolio/index.html)
 Modern responsive portfolio with sleek design using Tailwind CSS and Bootstrap.
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)

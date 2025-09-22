@@ -6,7 +6,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://siddharth-kr.github.io/portfolio/index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/siddharth-kumar-17b692259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kumar-17b692259)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Siddharthkumar5364@gmail.com)
 
 </div>
@@ -58,7 +58,7 @@ Modern responsive portfolio with sleek design using Tailwind CSS and Bootstrap.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 📝 [Blogging App](dailyscribe-frontend.vercel.app)
+### 📝 [Blogging App](https://dailyscribe-frontend.vercel.app)
 MERN stack application for creating and managing blog content.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)

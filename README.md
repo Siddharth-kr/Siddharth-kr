@@ -72,11 +72,11 @@ MERN stack application for creating and managing blog content.
 
 <div align="center">
 
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth-Kumar&show_icons=true&count_private=true&hide_border=true&theme=radical)
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth-kr&show_icons=true&theme=radical&hide_border=true&count_private=true&token=YOUR_TOKEN_HERE)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Kumar&layout=compact&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-kr&layout=compact&hide_border=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Siddharth-Kumar&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Siddharth-kr&theme=radical&hide_border=true)
 
 </div>
 

@@ -95,6 +95,6 @@ MERN stack application for creating and managing blog content.
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad."
 
-⭐️ From [Siddharth Kumar](https://github.com/Siddharth-Kumar)
+⭐️ From [Siddharth Kumar](https://github.com/Siddharth-Kr)
 
 </div>
